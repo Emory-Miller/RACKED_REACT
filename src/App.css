@@ -46,3 +46,9 @@
   width: 200px;
   border-radius: 50px;
 }
+
+.btnWrapper {
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+}
