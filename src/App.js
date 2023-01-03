@@ -152,16 +152,6 @@ export default function App() {
                 Register Rack
               </button>
             </form>
-            {/* <h2>Create Rack Here?</h2>
-            <form>
-              <label htmlFor="rackName">Rack Name:</label>
-              <br />
-              <input type="text" id="rackName" name="rackName" />
-              <br />
-            </form>
-            <button onSubmit={createRack(document.getElementById("rackName"))}>
-              Create Rack
-            </button> */}
           </div>
         </Popup>
       )}
